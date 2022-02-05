@@ -1,0 +1,6 @@
+C:\Users\ngautier006\Desktop\Projet pendu\Projet pendu\Projet pendu\bin\Debug\Projet pendu.exe.config
+C:\Users\ngautier006\Desktop\Projet pendu\Projet pendu\Projet pendu\bin\Debug\Projet pendu.exe
+C:\Users\ngautier006\Desktop\Projet pendu\Projet pendu\Projet pendu\bin\Debug\Projet pendu.pdb
+C:\Users\ngautier006\Desktop\Projet pendu\Projet pendu\Projet pendu\obj\Debug\Projet pendu.csprojResolveAssemblyReference.cache
+C:\Users\ngautier006\Desktop\Projet pendu\Projet pendu\Projet pendu\obj\Debug\Projet pendu.exe
+C:\Users\ngautier006\Desktop\Projet pendu\Projet pendu\Projet pendu\obj\Debug\Projet pendu.pdb

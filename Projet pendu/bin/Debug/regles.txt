@@ -1,0 +1,10 @@
+Regles du Pendu:
+Vous allez devoir deviner un mot, ou le faire deviner. 
+Chaque tiret affiche correspond a une lettre a deviner appartenant au mot a deviner.
+Vous avez le droit a 10 erreurs et a chaque erreur, une partie de potence est dessinee.
+Si une lettre proposee a deja ete entree, cela compte comme une erreur.
+Si un joueur propose un mot qui ne correspond pas au mot a deviner, il perd la partie.
+Si un joueur veut abandonner il doit entrer : * lors d'un des tours
+Si un joueur veut de l'aide, il doit entrer : 1 pour obtenir une lettre du mot, 2 pour avoir le nombre de 
+voyelles et de consonnes du mot.
+La partie est terminee lorsque le joueur essayant de deviner le mot a réussi a trouver le mot ou lorsqu'il est pendu
